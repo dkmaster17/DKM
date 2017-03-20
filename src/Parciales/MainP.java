@@ -147,10 +147,7 @@ public class MainP {
        else if ( bot < top && bot < iz && bot < der ) {
            System.out.println(bot);
        }else    System.out.println(der);
-       
-      
-       
- 
+
     }
     
 

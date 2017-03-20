@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475896889 source:c:\pasados\estructura\allegroproyect\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475896890 c:\pasados\estructura\allegroproyect\inicia.h
+
+1475896890 source:c:\pasados\estructura\allegroproyect\main.cpp
+	<allegro.h>
+	"inicia.h"
+

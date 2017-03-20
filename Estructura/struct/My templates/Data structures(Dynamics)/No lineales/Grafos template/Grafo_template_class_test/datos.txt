@@ -1,0 +1,9 @@
+tariba,san cristobal,35
+palmira,tariba,14
+rubio,el pueblito,12
+peracal,san antonio,29
+el mirador,san cristobal,19
+el pueblito,el mirador,28
+palmira,lobatera,45
+rubio,san antonio,68
+el mirador,peracal,26

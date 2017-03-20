@@ -1,0 +1,13 @@
+the kill-30stm.mp3,45
+uprising-muse.mp3,46
+one-metallica.mp3,43
+creep-radiohead.mp3,56
+tnt-ac/dc.mp3,45
+bohemian rhapsody-queen.mp3,23
+clint eastwood-gorillaz.mp3,50
+everlong-foo fighters.mp3,45
+dream on-aerosmith.mp3,56
+otherside-rhcp.mp3,64
+hysteria-muse.mp3,40
+master of puppets-metallica,50
+tornado of souls-megadeth,54

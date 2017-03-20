@@ -1,0 +1,3 @@
+81123, Torta criolla, 4700
+81323, Tortas cebolla, 6900
+81423, Tartaleta criolla, 5700

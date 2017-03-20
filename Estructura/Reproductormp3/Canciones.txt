@@ -1,0 +1,11 @@
+Cancion1 25
+Cancion2 14
+Cancion3 40
+Cancion4 29
+Cancion5 32
+Cancion6 60
+Cancion7 50
+Cancion8 40
+Cancion9 30
+Cancion10 10
+Cancion11 20
